@@ -4,10 +4,9 @@ end
 
 def my_hash
 full_name = {
-  first: "Jennifer"
+  first: "Jennifer",
   last: "Yoo"
 }
-end
 end
 
 def pioneer
